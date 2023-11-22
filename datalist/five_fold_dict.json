@@ -1,0 +1,37 @@
+{
+    "image path": "IMAGE_PATH",
+    "label path": "LABEL_PATH",
+
+    "scan": [
+        "MR"
+    ],
+    "modalities": [
+        "arterial",
+        "venous",
+        "delayed"
+    ],
+    "number of data": 306,
+    "folds": 5,
+    "fold": {
+        "0": {
+            "train": [],
+            "eval": []
+        },
+        "1": {
+            "train": [],
+            "eval": []
+        },
+        "2": {
+            "train": [],
+            "eval": []
+        },
+        "3": {
+            "train": [],
+            "eval": []
+        },
+        "4": {
+            "train": [],
+            "eval": []
+        }
+    }
+}
