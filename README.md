@@ -13,6 +13,8 @@ To use this project, you need to:
 3. Run the training script.
 4. Use the trained model to make predictions on new data.
 
+[1] ISENSEE, F., JAEGER, P. F., KOHL, S. A. A., PETERSEN, J. & MAIER-HEIN, K. H. 2021. nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature Methods, 18, 203-211.
+
 ## Dependencies
 
 This project requires the following dependencies:
