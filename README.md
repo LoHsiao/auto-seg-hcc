@@ -43,4 +43,4 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 ## Contact
 
-For any questions or concerns, please open an issue on GitHub.
+For any questions or concerns, please open an issue on Gitee.
